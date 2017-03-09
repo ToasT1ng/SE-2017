@@ -2,10 +2,10 @@
 
 void main(){
 	int input;
-	scanf("%d",&input]);
+	scanf("%d",&input);
 	if (input == 1){
-		printf("Sung JIna");
+		printf("Sung JIna\n");
 	} else {
-		printf("Student")
+		printf("Student\n");
 	}
 }
