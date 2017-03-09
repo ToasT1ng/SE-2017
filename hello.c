@@ -1,6 +1,11 @@
 #include <stdio.h>
 
 void main(){
-	printf("hello world");
-	printf("hi");
+	int input;
+	scanf("%d",&input]);
+	if (input == 1){
+		printf("Sung JIna");
+	} else {
+		printf("Student")
+	}
 }
